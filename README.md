@@ -5,9 +5,9 @@ Its main function is to identify whether the target assets are alive in batches,
 Install:  
 Set GOPATH, this environment variable points to your project directory.    
 Remember to put the iprange folder in your src/github environment directory .  
-git clone https://github.com/Osyanina/westonescan.git
-cd westonescan
-go build westonescan.go
+git clone https://github.com/Osyanina/westonescan.git  
+cd westonescan  
+go build westonescan.go  
 
 Example :  
 
