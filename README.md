@@ -1,7 +1,7 @@
 # westonescan
 An asset scanning tool based on the GO language for the aid of penetration test engineers .  
 Its main function is to identify whether the target assets are alive in batches, and to perform port external network open scanning of the surviving assets .
-# How to use?  
+# Installation & Usage 
 Install:  
 Set GOPATH, this environment variable points to your project directory.    
 Remember to put the iprange folder in your src/github environment directory .  
