@@ -7,7 +7,7 @@ Set GOPATH, this environment variable points to your project directory.
 Remember to put the iprange folder in your src/github environment directory .  
 git clone https://github.com/Osyanina/westonescan.git  
 cd westonescan  
-go build westonescan.go  
+cmd westonescan.exe
 
 Example :  
 
